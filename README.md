@@ -5,6 +5,7 @@ A simple websocket example for Minecraft Bedrock Edition.  A websocket server fo
 1. Create a new file called `package.json`
 2. Inside `package.json` type `{}`
 3. Open terminal and run `npm i ws` and `npm i uuid`
+Note: Make sure you are using commonjs
 
 ## Basic Script
 ```js
